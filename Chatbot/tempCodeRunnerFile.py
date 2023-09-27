@@ -1,1 +1,0 @@
- response.message().quick_reply("Option 1", "1")
